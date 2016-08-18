@@ -6,7 +6,7 @@ RUN apt-get update -qq && \
 	apt-get install -yq --no-install-recommends \
 						git \
 						less \
-						python \
+						python3 \
 						libdatetime-perl \
 						libxml-simple-perl \
 						libdigest-md5-perl \
